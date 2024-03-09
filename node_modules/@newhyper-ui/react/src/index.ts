@@ -1,3 +1,3 @@
-import { colors } from "@newhyper-ui/tokens";
+import { colors } from '@newhyper-ui/tokens'
 
-console.log(colors);
+console.log(colors)
