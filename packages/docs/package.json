@@ -25,6 +25,9 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
+    "@newhyper-ui/react": "*",
+    "@newhyper-ui/tokens": "*",
+    "@newhyper-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
